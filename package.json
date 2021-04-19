@@ -1,6 +1,8 @@
 {
   "scripts": {
-    "dev": "backpack"
+    "dev": "backpack",
+    "start": "cd build && node main.js",
+    "build": "backpack build"
   },
   "dependencies": {
     "backpack-core": "^0.8.4",
