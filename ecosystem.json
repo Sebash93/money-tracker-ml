@@ -5,9 +5,9 @@
           "script"        : "npm",
           "args"          : "run start",
           "watch"         : false,
-          "cwd"           : "/home/ubuntu/money-tracker-ml/",
-          "out_file"      : "/home/ubuntu/hooker.out.log",
-          "err_file"      : "/home/ubuntu/hooker.err.log",
+          "cwd"           : "/home/ec2-user/money-tracker-ml/",
+          "out_file"      : "/home/ec2-user/hooker.out.log",
+          "err_file"      : "/home/ec2-user/hooker.err.log",
           "merge_logs"    : true,
           "instances"     : 1,
           "exec_mode"     : "cluster"
